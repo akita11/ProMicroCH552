@@ -19,7 +19,7 @@
 
 ## ピン配置
 
-<img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552_pin.png" width="240px">
+<img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552_pin.png" width="720px">
 
 
 ## Author
