@@ -1,6 +1,6 @@
 # ProMicroCH552
 
-<img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552.jpg" width="240px">
+<img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552.png" width="240px">
 
 [WCH(南京沁恒微电子股份有限公司)](http://wch-ic.com/)の8ビットマイコン[CH552](http://wch-ic.com/products/CH552.html)を使った、ProMicro型のマイコンボードです。
 主な特徴は以下のとおりです。
@@ -20,6 +20,14 @@
 ## ピン配置
 
 <img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552_pin.png" width="720px">
+
+<img src="https://github.com/akita11/CH559Pico/blob/main/ProMicroCH552_Back.png" width="240px">
+
+基板上の"LED"（オレンジ）はP1.7で駆動できます。
+
+# 訂正
+
+基板上の2個のシルク表示が逆になっているロットがあります。正しくは、R4側が"LED"（オレンジ）、反対側が"POW"（緑、電源インジケータ）です。
 
 
 ## Author
