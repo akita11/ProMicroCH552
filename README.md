@@ -21,7 +21,7 @@
 
 <img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552_pin.png" width="720px">
 
-<img src="https://github.com/akita11/CH559Pico/blob/main/ProMicroCH552_Back.png" width="240px">
+<img src="https://github.com/akita11/ProMicroCH552/blob/main/ProMicroCH552_Back.png" width="240px">
 
 基板上の"LED"（オレンジ）はP1.7で駆動できます。
 
